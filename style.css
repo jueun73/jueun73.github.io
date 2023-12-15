@@ -1,4 +1,13 @@
-body{background-color: aquamarine;}
+body{background-color: aqua;}
 p{font-family: cursive;}
-h3{font-family: fantasy;}
-h1{font-family: fantasy;}
+li{
+    font-family: cursive;
+}
+h3{
+    font-family: fantasy;
+    color:cornflowerblue;
+  }
+h1{
+    font-family: fantasy;
+    color:cornflowerblue
+  }
