@@ -8,10 +8,8 @@ h1{
     font-family: fantasy;
     color:cornflowerblue
   }
-img{
-  width: 200px;
+img{width: 200px;
   float: right;
   border-style:dashed;
   border-color:blue;
-  border-radius: 20px;
-}
+  border-radius: 20px;}
