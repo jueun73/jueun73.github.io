@@ -10,7 +10,7 @@ h1{
   }
 img{
   width: 500px;
-  float: left;
+  float: right;
   border-style:dashed;
   border-color:blue;
   border-radius: 20px;
