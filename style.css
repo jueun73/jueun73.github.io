@@ -1,5 +1,9 @@
-body{background-color: aqua;}
-p{font-family: cursive;}
+body{
+  background-color: aqua;
+}
+p{
+  font-family: cursive;
+}
 h3{
     font-family: fantasy;
     color:cornflowerblue;
@@ -8,8 +12,9 @@ h1{
     font-family: fantasy;
     color:cornflowerblue
   }
-img{width: 200px;
-  float: right;
+img{
+  width: 200px;
   border-style:dashed;
   border-color:blue;
-  border-radius: 20px;}
+  border-radius: 20px;
+}
