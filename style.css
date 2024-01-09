@@ -9,9 +9,9 @@ h1{
     color:cornflowerblue
   }
 img{
-  width: 750px;
+  width: 500px;
   float: left;
   border-style:dashed;
   border-color:blue;
-  border-radius: 20px
+  border-radius: 20px;
 }
